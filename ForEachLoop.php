@@ -11,7 +11,7 @@ for($i=0; $i<count($arr); $i++){
 
  // better way to do this
 
- echo "2nd using FOR EACH Loop <br>";
+ echo "2nd using FOR lEACH Loop <br>";
  
  foreach($arr as $value){
     echo"$value <br>";
